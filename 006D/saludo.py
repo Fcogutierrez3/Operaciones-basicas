@@ -1,4 +1,4 @@
-print("Hola panchito como a estado el niño mas bonito que todo el mundo mundial")
+print("Hola")
 print("bienvenido al programa de python")
 
 "hola"
