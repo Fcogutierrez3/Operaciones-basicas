@@ -23,7 +23,11 @@ division:
 
 
 multiplicacion:
-
+print("Bienvenidos a a las operaciones basicas")
+multiplicar1=int(input("ingrese 1° numero a multiplicar: "))
+multiplicar2=int(input("ingrese 2° numero a multiplcar: "))
+total=multiplicar1*multiplicar2
+print("el total de su multiplicacion es : ",total)
 
 
 
