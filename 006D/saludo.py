@@ -1,10 +1,10 @@
 suma:
+num1 = float(input("INGRESE EL PRIMER NUMERO: "))
+num2 = float(input("INGRESE EL SEGUNDO NUMERO: "))
 
+r = num1 + num2
 
-
-
-
-
+print("La suma de", num1, "y", num2, "es", r)
 
 resta:
 
